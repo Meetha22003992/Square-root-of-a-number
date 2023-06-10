@@ -1,7 +1,7 @@
 # Find the square root of a number
 
 ## AIM:
-To write a program to find the square root of a number.
+To write a python program to find the square root of a number.
 
 ## Equipments Required:
 1. Hardware – PCs
